@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KnapsackCipher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "KnapsackCipher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
